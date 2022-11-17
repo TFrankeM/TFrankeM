@@ -14,6 +14,6 @@
 
 <div> 
 
-![Snake animation](https://github.com/TFrankeM/TFrankeM/blob/main/.github/workflows/main.yml)
+# ![Snake animation](https://github.com/TFrankeM/TFrankeM/blob/main/.github/workflows/main.yml)
  
 </div>
