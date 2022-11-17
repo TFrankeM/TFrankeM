@@ -1,4 +1,4 @@
-### Olá, eu sou o Thiago! 🤙
+### Olá, eu sou o Thiago! 😃
 
 - 📚 Sou estudante de Ciência de Dados e Inteligência Artificial na Escola de Matemática Aplicada da FGV RJ.
 - 🐍 Programo em Python.
@@ -14,6 +14,6 @@
 
 <div> 
 
-![Snake animation](https://github.com/TFrankeM/TFrankeM/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TFrankeM/TFrankeM/blob/main/.github/workflows/main.yml)
  
 </div>
