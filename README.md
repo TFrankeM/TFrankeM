@@ -1,6 +1,6 @@
 ### Olá, eu sou o Thiago!
 
-- 📚 Sou ciêntista de dados e inteligência artificial pela Escola de Matemática Aplicada da FGV (FGV EMAp)
+- 📚 Sou cientista de dados e inteligência artificial pela Escola de Matemática Aplicada da FGV (FGV EMAp)
 - 🐍 Programo em Python, C++ e JavaScript.
 
 
