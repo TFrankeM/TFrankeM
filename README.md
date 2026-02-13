@@ -1,7 +1,7 @@
-### Olá, eu sou o Thiago! 😃
+### Olá, eu sou o Thiago!
 
-- 📚 Sou estudante de Ciência de Dados e Inteligência Artificial na Escola de Matemática Aplicada da FGV RJ.
-- 🐍 Programo em Python e C++.
+- 📚 Sou ciêntista de dados e inteligência artificial pela Escola de Matemática Aplicada da FGV (FGV EMAp)
+- 🐍 Programo em Python, C++ e JavaScript.
 
 
 <div style="display: inline_block">
